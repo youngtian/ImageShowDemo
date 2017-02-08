@@ -1,1 +1,3 @@
 # ImageShowDemo
+
+该demo是基于ScrollView实现的图片轮播的效果，通过在scrollView上添加两个imageView实现图片等循环展示。
